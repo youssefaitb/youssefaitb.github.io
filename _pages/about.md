@@ -13,7 +13,7 @@ My name is Youssef Ait Benasser, and I am a 4th year PhD student in Economics at
 
 About 
 ======
-Speak here about personal hobbies and the like ?
+Research production is under research tab, teaching experience is under teaching tab, cv is under cv tab. And below is some more personal content if you are looking to know the person behind the economist.
 
 Economics and me 
 ------
