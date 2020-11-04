@@ -38,13 +38,17 @@ Introductory Macroeconomics, *Sciences Po, Spring 2017*
 
 Labor Economics (EC 450), *Spring 2019*
 :   Instructor of record: Mike Kuhn 
+
 Crime Economics (EC 410/510), *Winter 2019*
 :   Instructor of record: Ben Hansen
+
 Health Economics (EC 443/543), *Winter 2019* 
 :   Instructor of record : Ben Hansen
+
 Games and Decisions (EC 427/527), *Spring 2018*
 :   Instructor of record : Jiabin Wu
+
 Intermediate Macro Theory (EC 313), *Spring 2018*
 :   Instructor of record : Kendall Hughton
   
-This roles included office hours, student support, and grading. 
+These roles included office hours, student support, and grading. 
