@@ -8,51 +8,43 @@ Teaching philosophy
 ======
 
 
-Independently Taught Courses
+Independently Taught Courses @ UO
 ======
 
-
-Introductory Macroeconomics, *University of Oregon, Summer 2019 & Spring 2020*
+Introductory Macroeconomics, *Summer 2019 & Winter 2021*
 ------
 
-Intermediate Macroeconomics, *University of Oregon, Spring 2021*
+- [Download Summer'19 Syllabus](http://youssefaitb.github.io/files/Syllabus_S19.pdf)
+- [Download Winter'21 Syllabus](http://youssefaitb.github.io/files/Syllabus_W21.pdf)
+
+Intermediate Macroeconomics, *Spring 2021*
 ------
 
-Introduction to Econometrics, *University of Oregon, Spring 2020*
+- [Download Syllabus here](http://youssefaitb.github.io/files/Syllabus_S21.pdf)
+
+Introduction to Econometrics, *Spring 2020*
 ------
 
+- [Download Syllabus here](http://youssefaitb.github.io/files/Syllabus_S20.pdf)
 
-
-Labs and Discussion Sections 
+Labs and Discussion Sections @ UO
 ======
 
-
-Introduction to Econometrics, *University of Oregon, Fall 2018 & Fall 2019*
+Introduction to Econometrics, *Fall 2018 & Fall 2019*
 ------
 
-Introductory Microeconomics, *University of Oregon, Fall 2017*
+Introductory Microeconomics *Fall 2017*, Macroeconomics, *Winter 2018*
 ------
 
-Introductory Macroeconomics, *University of Oregon, Winter 2018*
-------
-
-Introductory Macroeconomics, *Sciences Po, Spring 2017*
-------
-
-
-Teaching Assistanships 
+Labs and Discussion Sections @ Sciences Po, Paris
 ======
 
-
-Crime Economics (EC 410/510), *University of Oregon, Winter 2019*
+Introductory Macroeconomics, *Spring 2017*
 ------
 
-Health Economics (EC 443/543), *University of Oregon, Winter 2019*
-------
 
-Games and Decisions (EC 427/527), *University of Oregon, Spring 2018*
-------
+Teaching Assistanships @ UO 
+======
 
-Intermediate Macro Theory (EC 313), *University of Oregon, Spring 2018*
-------
+**Crime Economics (EC 410/510)**, *University of Oregon, Winter 2019*, **Health Economics (EC 443/543)**, *University of Oregon, Winter 2019*, **Games and Decisions (EC 427/527)**, *University of Oregon, Spring 2018*, **Intermediate Macro Theory (EC 313)**, *University of Oregon, Spring 2018*
 
