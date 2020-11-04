@@ -24,6 +24,7 @@ Introduction to Econometrics, *Spring 2020*
 
 Introduction to Econometrics, *Fall 2018 & Fall 2019*
 :   As lab leader, I introduced students to coding in R by demonstrating examples in class, assisting with projects, and evaluating homework. 
+
 Introductory Microeconomics *Fall 2017*, Macroeconomics, *Winter 2018*
 :   In this role, I facilitated weekly in-class discussions pertaining to course content, with an emphasis on applications to real life analytical problems. 
 
@@ -35,10 +36,15 @@ Introductory Macroeconomics, *Sciences Po, Spring 2017*
 
 ## Teaching Assistanships @ UO 
 
-  * **Labor Economics (EC 450)**, *Spring 2019*
-  * **Crime Economics (EC 410/510)**, *Winter 2019*
-  * **Health Economics (EC 443/543)**, *Winter 2019* 
-  * **Games and Decisions (EC 427/527)**, *Spring 2018*
-  * **Intermediate Macro Theory (EC 313)**, *Spring 2018*
+Labor Economics (EC 450), *Spring 2019*
+:   Instructor of record: Mike Kuhn 
+Crime Economics (EC 410/510), *Winter 2019*
+:   Instructor of record: Ben Hansen
+Health Economics (EC 443/543), *Winter 2019* 
+:   Instructor of record : Ben Hansen
+Games and Decisions (EC 427/527), *Spring 2018*
+:   Instructor of record : Jiabin Wu
+Intermediate Macro Theory (EC 313), *Spring 2018*
+:   Instructor of record : Kendall Hughton
   
 This roles included office hours, student support, and grading. 
