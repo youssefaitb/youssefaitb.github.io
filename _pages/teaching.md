@@ -4,47 +4,42 @@ permalink: /teaching/
 author_profile: true
 ---
 
-Teaching philosophy
-======
+## Teaching philosophy
 
 
-Independently Taught Courses @ UO
-======
 
-Introductory Macroeconomics, *Summer 2019 & Winter 2021*
-------
+## Independently Taught Courses @ UO
 
-- [Download Summer'19 Syllabus](http://youssefaitb.github.io/files/Syllabus_S19.pdf)
-- [Download Winter'21 Syllabus](http://youssefaitb.github.io/files/Syllabus_W21.pdf)
+### Introductory Macroeconomics, *Summer 2019 & Winter 2021*
 
-Intermediate Macroeconomics, *Spring 2021*
-------
+  * [Download Summer'19 Syllabus](http://youssefaitb.github.io/files/Syllabus_S19.pdf)
+  * [Download Winter'21 Syllabus](http://youssefaitb.github.io/files/Syllabus_W21.pdf)
 
-- [Download Syllabus here](http://youssefaitb.github.io/files/Syllabus_S21.pdf)
+### Intermediate Macroeconomics, *Spring 2021*
 
-Introduction to Econometrics, *Spring 2020*
-------
+  * [Download Syllabus here](http://youssefaitb.github.io/files/Syllabus_S21.pdf)
 
-- [Download Syllabus here](http://youssefaitb.github.io/files/Syllabus_S20.pdf)
+### Introduction to Econometrics, *Spring 2020*
 
-Labs and Discussion Sections @ UO
-======
+  * [Download Syllabus here](http://youssefaitb.github.io/files/Syllabus_S20.pdf)
 
-Introduction to Econometrics, *Fall 2018 & Fall 2019*
-------
+## Labs and Discussion Sections @ UO
 
-Introductory Microeconomics *Fall 2017*, Macroeconomics, *Winter 2018*
-------
+### Introduction to Econometrics, *Fall 2018 & Fall 2019*
 
-Labs and Discussion Sections @ Sciences Po, Paris
-======
+### Introductory Microeconomics *Fall 2017*, Macroeconomics, *Winter 2018*
 
-Introductory Macroeconomics, *Spring 2017*
-------
+## Other Labs and Discussion Sections
+
+### Introductory Macroeconomics, *Sciences Po, Spring 2017*
 
 
-Teaching Assistanships @ UO 
-======
+## Teaching Assistanships @ UO 
 
-**Crime Economics (EC 410/510)**, *University of Oregon, Winter 2019*, **Health Economics (EC 443/543)**, *University of Oregon, Winter 2019*, **Games and Decisions (EC 427/527)**, *University of Oregon, Spring 2018*, **Intermediate Macro Theory (EC 313)**, *University of Oregon, Spring 2018*
+  * **Labor Economics (EC 450)**, *Spring 2019*
+  * **Crime Economics (EC 410/510)**, *Winter 2019*
+  * **Health Economics (EC 443/543)**, *Winter 2019* 
+  * **Games and Decisions (EC 427/527)**, *Spring 2018*
+  * **Intermediate Macro Theory (EC 313)**, *Spring 2018*
+  
 
