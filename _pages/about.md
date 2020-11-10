@@ -35,4 +35,4 @@ I am fortunate to be working under the guidance of [Dr. Anca Cristea](https://pa
 
 Misc
 ------
-When I am not thinking about economic and trade policy, or engaged in existential dread, I can be found playing Oud, or obsessively reading queer and afrofutirist scifi. 
+When I am not thinking about economic and trade policy, or engaged in existential dread, I can be found playing Oud, obsessively reading queer and afrofutirist scifi, or browsing through dog shelter adoption ads and counting the days until I can adopt one. 
