@@ -11,41 +11,50 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Political Science, Sciences Po, 2012
+* M.S. in Economics and Public Policy, Ecole Polytechnique, 2014
+* Masters in Economics and Public Policy, Sciences Po, 2014
+* M.A. in Economics, University of Oregon, 2020
+* Ph.D. in Economics, University of Oregon, 2022 (Expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* March-July 2013: Macroeconomic Analyst
+  * French Treasury
+  * Duties included: Monitoring economic developments in Tunisia and Libya, advising on France's trade and economic policies in the region 
+  * Supervisor: Christelle Péridon 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* June-Oct 2014: Risk Analyst
+  * La Banque Postale, Paris France
+  * Duties included: Desigining and testing a internal default risk scoring system
+  * Supervisor: Yves Ferron
+
+* 2014 - 2017: Credit Risk Analyst
+  * S&P Ratings, Sovereigns and Regional Governments
+  * Duties included: Credit risk analysis of sovereign and local governments in Western Europe, Voting on rating committees
+  * Supervisor: Patrice Cochelin
+
+* Spring 2017: Macroeconomics Teaching Assistant 
+  * Sciences Po, Paris
+
+* 2017 - Present: Graduate Employee 
+  * The University of Oregon  
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming 
+  * Proficient : R, Stata, Matlab 
+  * Working knowledge: Julia
+  * In progress: Python 
+* Languages
+  * Native speaker: French, Arabic
+  * Proficient : English, Spanish 
+  * Advanced : Russian 
 
-Publications
+Working Papers
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Teaching
@@ -56,4 +65,9 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 2018-2019 : Member of GTFF contract bargaining committee (elected)
+* 2018-2020 : Union Steward for the Economics Department (elected)
+* 2019-2020 : Member of the university-wide Graduate Teaching Advisory Committee (appointed)
+* 2020-2021 : Chair of the graduate Queer Caucus (appointed)
+
+
