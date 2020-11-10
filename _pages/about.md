@@ -13,7 +13,7 @@ My name is Youssef Ait Benasser, and I am a 4th year PhD student in Economics at
 
 About 
 ======
-Research production is under research tab, teaching experience is under teaching tab, cv is under cv tab. And below is some more personal content if you are looking to know the person behind the economist.
+Navigate to the top panel to find out more about my research, teaching experience, or to read a few think-pieces. Scroll below for a lengthier introduction. 
 
 Economics and me 
 ------
@@ -29,7 +29,9 @@ Why trade ?
 
 For most of my 2nd year, I agonized over having to choose a field to focus on. A little of this indecision had to do with my epistemological resistence to specialization. A lot of it was about my genuine fascination for most of economic thought. There was very little research at the UO's Econ department that I couldn't get into. I very much enjoyed applied macroeconomics. Labor aligned well with my interest in distributional issues. The resource-related literature in environmental economics seemed like mandatory reading. 
 
-I was eventually drawn to the international trade literature, for the same reasons I was drawn to economics. It interfaces with all of the other fields I was inclined to. The way economies trade relates to their very production structure, is informed by and consequential for their labor market outcomes and resulting welfare. It is impacted by their resource endowment, and is also a path towards optimized global resource use. By studying trade, I could continue to learn about macroeconomic dynamics not only in large insular economies, but in the more challenging and fluid context of the small open economies. Just as importantly, I could adapt new micro and macro econometric and modelling methods to questions old and new. The international dimension of the literature would allow me to stay atune with economic concerns that are specific to poor peripheral economies, that I do not want to lose from sight in my research. For its breadth, its global encline, and its promise, international trade was the field for me. 
+I was eventually drawn to the international trade literature, for the same reasons I was drawn to economics. It interfaces with all of the other fields I was inclined to. The way economies trade relates to their very production structure, is informed by and consequential for their labor market outcomes and resulting welfare. It is impacted by their resource endowment, and is also a path towards optimized global resource use. By studying trade, I could continue to learn about macroeconomic dynamics not only in large insular economies, but in the more challenging and fluid context of the small open economies. Just as importantly, I could adapt new micro and macro econometric and modelling methods to questions old and new. The international dimension of the literature would allow me to stay atune with economic concerns that are specific to poor peripheral economies, that I do not want to lose from sight in my research. For its breadth, its global encline, and its promise, international trade was the field for me.
+
+I am fortunate to be working under the guidance of [Dr. Anca Cristea](https://pages.uoregon.edu/cristea/Home.html). And I am grateful to her for her advice and support.  
 
 Misc
 ------
