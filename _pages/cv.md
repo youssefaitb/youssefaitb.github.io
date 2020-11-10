@@ -57,12 +57,6 @@ Working Papers
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Service and leadership
 ======
 * 2018-2019 : Member of GTFF contract bargaining committee (elected)
