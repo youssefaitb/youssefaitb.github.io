@@ -11,8 +11,9 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
     
+  - title: "Trade x Africa"
+    url: /african-trade/
+    
   - title: "CV"
     url: /cv/
     
-  - title: "Guide"
-    url: /african-trade/
