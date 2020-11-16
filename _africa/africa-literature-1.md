@@ -10,11 +10,9 @@ tags:
 ---
 
 
+## On Intra-African Trade 
 
-
-## Introduction
-
-With this dashboard, I want to offer a go-to theme-indexed compilation of the published papers on intra-African trade from the 1990s to the current day. 
+With this dashboard, I want to offer a go-to theme-indexed compilation of the published papers on intra-African trade from the 1990s to the current day. This page asks and answers: what do we know about intra-African trade? 
 
 I continuously monitor the economics literature, as well as adjacent disciplines for newly released papers. 
 
@@ -22,7 +20,7 @@ For select papers, I also provide short commentary notes.
 
 ^If you are facing access issues, feel free to _not_ contact me. I will _not_ gladly use my institutional access privilege to access and send the paper your way. Wink.  
 
-### Descriptive Studies
+### Descriptive Studies 
 
 | Author(s)               | Year   |  Title                                                                                              | 
 | ----------------------- | ------ | --------------------------------------------------------------------------------------------------- |
