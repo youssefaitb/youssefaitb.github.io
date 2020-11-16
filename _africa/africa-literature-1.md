@@ -8,7 +8,7 @@ tags:
 
 
 
-## Tables
+## Introduction
 
 ### Descriptive Studies
 
@@ -53,6 +53,9 @@ tags:
 | [Blaise Gnimassoun](#)     | 2020   | Regional Integration : Do Intra-African Trade and Migration Improve Income in Africa?      |                       
 | [Blaise Gnimassoun](#)     | 2019   | How to boost the impact of intra-African trade on income in Africa?                        |
 | [John Anyanwu](#)          | 2014   | Does Intra-African Trade Reduce Youth Unemployment in Africa?                              |
+| [Croser & Anderson](#)     | 2011   | Agricultural distortions in Sub-Saharan Africa: trade and welfare indicators, 1961 to 2004 |
+
+
 
 
 ^If you are facing access issues, feel free to _not_ contact me. I will _not_ gladly use my institutional access privilege to access and send the paper your way. 
