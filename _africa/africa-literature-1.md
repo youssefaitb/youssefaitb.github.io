@@ -1,14 +1,26 @@
 ---
-title: 'Literature Compilation : Intra-African Trade'
+title: 'Literature Dashboard : Intra-African Trade'
 date: 2020-11-16
 permalink: /africa/2020/11/entry-1/
 tags:
+  - african trade
+  - intra-african
+  - pan-african
+  - africa trade
 ---
 
 
 
 
 ## Introduction
+
+With this dashboard, I want to offer a go-to theme-indexed compilation of the published papers on intra-African trade from the 1990s to the current day. 
+
+I continuously monitor the economics literature, as well as adjacent disciplines for newly released papers. 
+
+For select papers, I also provide short commentary notes. 
+
+^If you are facing access issues, feel free to _not_ contact me. I will _not_ gladly use my institutional access privilege to access and send the paper your way. Wink.  
 
 ### Descriptive Studies
 
@@ -54,8 +66,3 @@ tags:
 | [Blaise Gnimassoun](#)     | 2019   | How to boost the impact of intra-African trade on income in Africa?                        |
 | [John Anyanwu](#)          | 2014   | Does Intra-African Trade Reduce Youth Unemployment in Africa?                              |
 | [Croser & Anderson](#)     | 2011   | Agricultural distortions in Sub-Saharan Africa: trade and welfare indicators, 1961 to 2004 |
-
-
-
-
-^If you are facing access issues, feel free to _not_ contact me. I will _not_ gladly use my institutional access privilege to access and send the paper your way. 
