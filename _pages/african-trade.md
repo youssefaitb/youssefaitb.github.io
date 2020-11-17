@@ -10,8 +10,6 @@ tags:
 ---
 
 
-## On Intra-African Trade 
-
 With this dashboard, I want to offer a go-to theme-indexed compilation of the published papers on intra-African trade from the 1990s to the current day. This page asks and answers: what do we know about intra-African trade? 
 
 I continuously monitor the economics literature, as well as adjacent disciplines for newly released papers. 
