@@ -29,6 +29,7 @@ For select papers, I also provide short commentary notes.
 
 
 ### Potential 
+
 | Author(s)               | Year   |  Title                                                                                              | 
 | ----------------------- | ------ | --------------------------------------------------------------------------------------------------- |
 | [Oramah & Abou-Lehaf](#)| 2020   | Commodity composition of African trade and intra-African trade potential                            |  
