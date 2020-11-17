@@ -10,7 +10,7 @@ tags:
 ---
 
 
-What do we know about intra-African trade? 
+## What do we know about intra-African trade? 
 
 With this dashboard, I want to offer an easy-access theme-indexed compilation of the published papers on intra-African trade from the 1990s to the current day.
 
