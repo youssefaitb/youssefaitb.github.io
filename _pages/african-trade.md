@@ -12,10 +12,7 @@ tags:
 
 ## What do we know about intra-African trade? 
 
-With this dashboard, I want to offer an easy-access theme-indexed compilation of the published papers on intra-African trade from the 1990s to the current day.
-
-I continuously monitor the economics literature, as well as adjacent disciplines for newly released papers. 
-
+With this dashboard, I want to offer an easy-access theme-indexed compilation of the published papers on intra-African trade from the 1990s to the current day. I continuously monitor the economics literature, as well as adjacent disciplines for newly released papers. 
 For select papers, I also provide short commentary notes. 
 
 ###### If you are facing access issues, feel free to _not_ contact me. I will _not_ gladly use my institutional access privilege to send the paper your way. Wink.  
