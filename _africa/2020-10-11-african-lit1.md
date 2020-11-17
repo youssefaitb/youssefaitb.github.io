@@ -1,7 +1,7 @@
 ---
 title: 'Literature Dashboard : Intra-African Trade'
-date: 2020-11-14
-permalink: /africa/2020/11/entry-1/
+date: 2020-10-11
+permalink: /africa/2020/10/african-lit1/
 tags:
   - african trade
   - intra-african
