@@ -1,5 +1,5 @@
 ---
-title: 'Literature Dashboard : Intra-African Trade'
+title: ''
 permalink: /african-trade/
 author_profile: true
 tags:
