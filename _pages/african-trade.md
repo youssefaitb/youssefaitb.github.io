@@ -10,13 +10,15 @@ tags:
 ---
 
 
-With this dashboard, I want to offer a go-to theme-indexed compilation of the published papers on intra-African trade from the 1990s to the current day. This page asks and answers: what do we know about intra-African trade? 
+What do we know about intra-African trade? 
+
+With this dashboard, I want to offer an easy-access theme-indexed compilation of the published papers on intra-African trade from the 1990s to the current day.
 
 I continuously monitor the economics literature, as well as adjacent disciplines for newly released papers. 
 
 For select papers, I also provide short commentary notes. 
 
-###### If you are facing access issues, feel free to _not_ contact me. I will _not_ gladly use my institutional access privilege to access and send the paper your way. Wink.  
+^If you are facing access issues, feel free to _not_ contact me. I will _not_ gladly use my institutional access privilege to send the paper your way. Wink.  
 
 ### Descriptive Studies 
 
@@ -44,14 +46,14 @@ For select papers, I also provide short commentary notes.
 
 
 ### Obstacles
-
-| Author(s)                 | Year   |  Title                                                                                                                          |
-| ------------------------- | ------ | ------------------------------------------------------------------------------------------------------------------------------- |                      
-| [Yushi and Borojo](#)     | 2019   | The impacts of institutional quality and infrastructure on overall ant intra-Africa trade                                       |
-| [Thomas & Marandu](#)     | 2017   | Rhetoric and realities of regional integration: Botswana SME perspectives on Southern African trade                             |
-| [Bankole et al.](#)       | 2015   | The impact of information and communications technology infrastructure and complementary factors on intra-African trade         |
+ 
+| Author(s)                 | Year   |  Title                                                                                                                   |
+| ------------------------- | ------ | ------------------------------------------------------------------------------------------------------------------------ |
+| [Yushi and Borojo](#)     | 2019   | The impacts of institutional quality and infrastructure on overall ant intra-Africa trade                                |       
+| [Thomas & Marandu](#)     | 2017   | Rhetoric and realities of regional integration: Botswana SME perspectives on Southern African trade                      |
+| [Bankole et al.](#)       | 2015   | The impact of information and communications technology infrastructure and complementary factors on intra-African trade  |
 | [Osiemo](#)               | 2015   | The last frontier: sanitary and phytosanitary standards and technical regulations as non-tariff barriers in intra-african Trade |
-| [Longo & Sekkat](#)       | 2004   | Economic obstacles to expanding intra-African trade                                                                             |
+| [Longo & Sekkat](#)       | 2004   | Economic obstacles to expanding intra-African trade                                                                      |
 
 
 ### Impact
