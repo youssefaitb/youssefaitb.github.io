@@ -1,7 +1,7 @@
 ---
 title: 'Literature Dashboard : Intra-African Trade'
-date: 2020-10-11
 permalink: /african-trade/
+author_profile: true
 tags:
   - african trade
   - intra-african
